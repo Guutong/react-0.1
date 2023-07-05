@@ -33,4 +33,4 @@ export default defineConfig({
 ```
 npm run deploy
 ```
-go to https://<username>.github.io/<reponame> to see the result.
+go to `https://<username>.github.io/<reponame>` to see the result.
